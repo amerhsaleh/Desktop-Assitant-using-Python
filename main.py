@@ -39,6 +39,8 @@ def takecommand():
     
 text = takecommand()
 speak(text)
+# speak("Hello, I am Jarvis. How can I help you?")
+
 
 
 
